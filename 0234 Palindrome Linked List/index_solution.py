@@ -46,7 +46,7 @@ if __name__ == '__main__':
         return current_node
 
     def main():
-        example_1_list_head = list_to_linked_list([1, 2, 3, 4, 2, 1])
+        example_1_list_head = list_to_linked_list([1, 2, 3, 2, 1])
         example_2_list_head = list_to_linked_list([1, 2])
 
         print(Solution().isPalindrome(example_1_list_head))

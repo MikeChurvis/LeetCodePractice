@@ -16,7 +16,6 @@ class Solution:
         return nodes == tuple(reversed(nodes))
 
 
-
 def linked_list_iterator(list_node):
     current_node = list_node
 
@@ -37,8 +36,8 @@ if __name__ == '__main__':
         return current_node
 
     def main():
-        example_1_list_head = list_to_linked_list([1,2,2,1])
-        example_2_list_head = list_to_linked_list([1,2])
+        example_1_list_head = list_to_linked_list([1, 2, 2, 1])
+        example_2_list_head = list_to_linked_list([1, 2])
 
         print(Solution().isPalindrome(example_1_list_head))
         print(Solution().isPalindrome(example_2_list_head))
