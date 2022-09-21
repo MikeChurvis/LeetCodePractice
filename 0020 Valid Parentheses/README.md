@@ -2,7 +2,7 @@
 
 ```
 Difficulty: Easy
-Status: WIP
+Status: Accepted (70.97% runtime, 98.14% memory)
 ```
 ---
 
