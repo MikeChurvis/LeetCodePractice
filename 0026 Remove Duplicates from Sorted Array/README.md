@@ -2,7 +2,7 @@
 
 ```
 Difficulty: Easy
-Status: WIP
+Status: Accepted
 ```
 ---
 
