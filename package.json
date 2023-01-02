@@ -1,0 +1,24 @@
+{
+  "name": "leetcodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeChurvis/LeetCodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeChurvis/LeetCodePractice/issues"
+  },
+  "homepage": "https://github.com/MikeChurvis/LeetCodePractice#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
